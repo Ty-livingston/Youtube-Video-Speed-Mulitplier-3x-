@@ -1,0 +1,8 @@
+# Open Java with (c+shift+j in browser)
+
+# Then input this code + enter
+
+document.getElementsByTagName("video")[0].playbackRate = x
+document.getElementsByTagName("video")[0].playbackRate = 2
+
+# Where x= speed mulitiplier
